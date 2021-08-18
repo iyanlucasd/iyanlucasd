@@ -1,23 +1,20 @@
-### Hi there 👋
 
-<!--
-**iyanlucasd/iyanlucasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hi! I'm Iyan Lucas! :3**
+## Computer Science student at PUC-MG, Brazil
+### Researcher at Observatório da Saúde - PUC-MG and researcher at IMScience lab
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div>
-  <a href="https://github.com/FelipeN21%22%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeN21&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true%22/%3E
-   <img align="right" alt="Felipe-gif" height="181" width="250" src="https://cdn.discordapp.com/attachments/684903546906476556/876944133028212797/dsBuffer.bmp.png%22%3E
-
-
+  <a href="https://github.com/iyanlucasd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyanlucasd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyanlucasd&layout=compact&langs_count=7&theme=tokyonight"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iyanlucasd"/> -->
 </div>
+  
+<div align=center>
+</div>
+
+ 
+
+
+
