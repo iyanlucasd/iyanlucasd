@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/FelipeN21%22%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeN21&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true%22/%3E
+   <img align="right" alt="Felipe-gif" height="181" width="250" src="https://cdn.discordapp.com/attachments/684903546906476556/876944133028212797/dsBuffer.bmp.png%22%3E
+
+
+</div>
